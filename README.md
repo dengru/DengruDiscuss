@@ -14,6 +14,6 @@ Features:
 * ... and many other features!
 
 
-# This software is copyrighted and prohibited for any unauthorized usage.
+This software is copyrighted and prohibited for any unauthorized usage.
 
-DengruDiscuss, copyright (c) 2016 - Dennis Grundelius
+DengruDiscuss - All rights reserved (c) 2016. Written by Dennis Grundelius
